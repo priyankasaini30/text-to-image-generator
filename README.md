@@ -1,6 +1,6 @@
 # 🖼️ Text-to-Image Generator using Stable Diffusion
 
-This is a web-based app that turns your **text prompts into AI-generated images** using the powerful `runwayml/stable-diffusion-v1-5` model from Hugging Face. Built using 🤗 Diffusers, PyTorch, and Gradio.
+This is a web based app that turns your **text prompts into AI-generated images** using the powerful `runwayml/stable-diffusion-v1-5` model from Hugging Face. Built using 🤗 Diffusers, PyTorch, and Gradio.
 
 ---
 
